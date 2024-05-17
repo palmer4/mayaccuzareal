@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  </title>WORLD RADIO</title>
+  
+ <h1>
+   Mayaccuza music 
+ </h1>
+  
+
+  <style>
+body {
+    font-size: 15pt;
+}
+
+  img {
+    width: 100%; /* or any other size */
+    height: auto; /* maintain aspect ratio */
+    object-fit: cover; /* prevent squish */
+  }
+p2 {
+  background: black;
+  font-weight: bold;
+  color: cadetblue;
+}
+p3 {
+  background: palegreen;
+  font-weight: bold;
+}
+divi {
+  margin: none;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 40px;
+}
+h4 {
+  font-size: 40px;
+}
+h5 {
+  font-size: 40px;
+}
+h6 {
+  font-size: 40px;
+}
+nav {
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+p4 {
+  font-weight: bold;
+  color: deepskyblue;
+  background: black;
+}
+p5 {
+  color: black;
+  background: powderblue;
+  font-weight: bold;
+}
+p6 {
+  font-weight: bold;
+  background: black;
+  color: white;
+  
+}
+p7 {
+  font-weight: bold;
+  background: darkslateblue;
+  color: white;
+}
+p8 {
+  font-weight: bold;
+  color: orangered;
+}
+b {
+  font-size: 40px;
+  color: red;
+}
+
+
+
+</style>
+  
+</head>
+
+<body>
+  <p>
+    <i>ALL THINGS MAYACCUZA</i>
+  </p>
+  
+  <div><u>for bookings and inquiries you can reach out to us via our WhatsApp</u> </div>
+  <br />
+  
+  
+  <div
+    id="nova">
+    R. Nova he's the lead artist and our main chorus singer 
+    <img height="400" width="400"
+    src="/nova.jpg" alt="/nova.jpg" />
+  </div>
+  
+  
+  <br />
+  
+  
+ <div id="penta">
+ Waiz Penta comes with his unique verses <br>he also sings chorus
+ <img height="400" width="400"
+ src="/penta.jpg" alt="/penta.jpg" />
+ </div>
+ 
+ <br />
+ 
+ 
+ <div id="kash">
+   Kash Villa kills in the drill category when it comes to chorus <i>never dissapoints</i>
+   <img height="400" width="400" src="/kash.jpg" alt="/kash.jpg" />
+ </div>
+ 
+ 
+ <br />
+ 
+ 
+  <div id="Vary Mgenje">
+   vary mgenje
+   <br />
+   <img height="400" width="400"
+   src="/vary.jpg" alt="vary mgenje" />
+   talk about finishing moves,,he knows his works
+ </div>
+  
+  <br />
+  
+  
+  <div>
+    <b><u>VIDEOS</u></b>
+  </div>
+  
+  
+  <div>
+      <h2>
+        RIDE
+      </h2>
+      
+      <p2>
+      <br />
+      Ride was created and released in 2023.it is a drill song...chorus by Waiz Penta,Mj Quan,Our producer came in,did his fine works and well,you have to hear it to beleive.
+      (Though it was shadowbanned on youtube).
+    </p2>
+  <video height="430" width="415" controls>
+  <source src="/Mayaccuza-_-Ride_lyrics_@MjQuan(1080p).mp4" type="video/mp4">
+  </video>
+  </div>
+  <br />
+  <br />
+  <divi>
+    
+    <h3>
+      Gang Rong
+    </h3>
+    
+    <p3>
+      Still our <i>most viewed on youtube</i> ,In just one day we had already over a thousand views.The genre is Genge,and it was released in 2023. 
+    </p3>
+<video  height="430" width="415" controls>
+  <source src="/Mayaccuza-_-Gang_rong__official_music_video_(720p).mp4"
+  type="video/mp4">
+</video>
+  </divi>
+  <br />
+  
+  <div>
+    
+    <h4>
+      NIKO DOOM
+    </h4>
+    
+    <p4>
+      The <i>MOOD-SETTER</i> is what i call this masterpiece, but don't take it from me,i mean just listen
+    </p4>
+ <video height="430" width="415" controls>
+   <source src="/Mayaccuza-_-Niko_doom_official_music_video_(720p).mp4"
+   type="video/mp4"
+ </video>
+ <br />
+ <div>
+   <h5>
+     WELCOME TO GITHU
+   </h5>
+   <p5>
+     Githurai our hometown.One of our best drill song ever.
+   </p5>
+ </div>
+ <video height="430" width="415" controls>
+   <source src="/Mayaccuza-_-Welcome_to_Githu__official_music_video_(720p).mp4" type="video/mp4">
+ </video>
+ <br />
+ 
+ <div>
+   <h6>
+     Mbogi ni Mayaccuza
+   </h6>
+   <p6>
+     Our first recorded video(location Githurai)
+   </p6>
+   <video height="430" width="415" controls>
+     <source src="/Mayaccuza__-__Bladder_Lazer_ft_kash_ville_ft_Vary___official_video_(1080p).mp4" type="video/mp4">
+   </video>
+   <br />
+ </div>
+   <div>
+     <nav>
+       Idhaa
+     </nav>
+       
+     
+     <p7>
+       released in 2022,this is one of our first released song <i>video loading</i>
+     </p7>
+     <video height="430" width="415" controls>
+       <source src="/Mayaccuza-idhaa_ni_idhaa_official_video_(1080p).mp4" type="video/mp4">
+     </video>
+   </div>
+ <br />
+ 
+<div>
+  <nav>
+   Kingwai
+  </nav>
+  <p8>
+    Our first released song
+  </p8>
+  <video height="430" width="415" controls>
+    <source src="/Mayaccuza-kingwai_official_video_(1080p50).mp4" type="video/mp4">
+  </video>
+  
+</div>
+   <!--Tab to edit-->
+ <div>
+   <video id="videoElement" height="430" width="415" controls>
+     <source src="/Mayaccuza-idhaa_ni_idhaa_official_video_(1080p).mp4" type="video/mp4">
+   </video>
+ </div>
+   
+  
+
+
+  <script src="main.js"></script>
+</body>
+</html>
